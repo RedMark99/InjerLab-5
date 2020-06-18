@@ -1,0 +1,7 @@
+C:\Users\Mark\source\repos\InjenerLab5\InjenerLab5\bin\Debug\InjenerLab5.exe.config
+C:\Users\Mark\source\repos\InjenerLab5\InjenerLab5\bin\Debug\InjenerLab5.exe
+C:\Users\Mark\source\repos\InjenerLab5\InjenerLab5\bin\Debug\InjenerLab5.pdb
+C:\Users\Mark\source\repos\InjenerLab5\InjenerLab5\obj\Debug\InjenerLab5.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\InjenerLab5\InjenerLab5\obj\Debug\InjenerLab5.exe
+C:\Users\Mark\source\repos\InjenerLab5\InjenerLab5\obj\Debug\InjenerLab5.pdb
+C:\Users\Mark\source\repos\InjenerLab5\InjenerLab5\obj\Debug\InjenerLab5.csprojAssemblyReference.cache
